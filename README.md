@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+-->
 **Macktireh/Macktireh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=tokyonight)
--->
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macktireh&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=radical" />
 
