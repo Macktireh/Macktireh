@@ -18,12 +18,17 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=tokyonight)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macktireh&theme=tokyonight" />
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macktireh&show_icons=true&theme=tokyonight" />
+  https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&theme=classic
+  <img src="https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=tokyonight" />
+</div>
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macktireh&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=radical" />
 -->
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macktireh&show_icons=true&theme=tokyonight" />
+  <img src="https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&theme=classic" />
   <img src="https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=tokyonight" />
 </div>
