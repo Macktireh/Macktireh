@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 -->
 <div style="display: flex;">
   <img src="https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&theme=bright_lights" />
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=tokyonight" />
+  -->
 </div>
