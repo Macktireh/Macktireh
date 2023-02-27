@@ -1,4 +1,4 @@
-# Howdy! 👋
+### Hi there 👋
 
 ```cli
 Macktireh@github:~ $ DevMack
