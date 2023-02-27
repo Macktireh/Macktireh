@@ -22,12 +22,6 @@ Macktireh@github:~ $ DevMack
   </tr>   
 </table>
 
-### Get in touch
-<p>
-  <a href="#"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/macktireh/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
-<p>
-
 <!--
 ### Hi there 👋
 
