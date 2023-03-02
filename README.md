@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```cli
-Macktireh@github:~ $ DevMack
+macktireh@github:~ $ MackDev
 
   • 😎 Python (Django) developer
   • 😃 React & React-Native enthusiast
