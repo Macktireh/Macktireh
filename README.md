@@ -3,7 +3,7 @@
 ```cli
 macktireh@github:~ $ MackDev
 
-  • 😎 Python (Django) developer
+  • 😎 Python (Django & Flask) developer
   • 😃 React & React-Native enthusiast
 ```
 
