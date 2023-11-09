@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-```cli
+```bash
 macktireh@github:~ $ MackDev
 
   • 😎 Python (Django & Flask) developer
@@ -24,27 +24,22 @@ macktireh@github:~ $ MackDev
 
 
 <h3 align="left">Languages & Framework and Tools:</h3>
-<p align="left">
+<hr />
+<p align="center" style="margin-top: 20px">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
     </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
+    <a href="https://www.postgresql.org](https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="django" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title="django" alt="django" width="40" height="40"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Macktireh/Icons/blob/main/Icons/flask.png" title="Flask" alt="flask" width="40" height="40"/>
@@ -55,29 +50,9 @@ macktireh@github:~ $ MackDev
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>
     </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
     </a>
-  <!--
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/> 
-    </a>
--->
 </p>
 
 
