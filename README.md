@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ```bash
 macktireh@github:~ $ MackDev
@@ -7,7 +7,7 @@ macktireh@github:~ $ MackDev
   • 😃 React & React-Native enthusiast
 ```
 
-### :octocat: My stats
+## :octocat: My stats
   <table>
   <tr>
       <td>
@@ -23,8 +23,9 @@ macktireh@github:~ $ MackDev
 </table>
 
 
-<h3 align="left">Languages & Framework and Tools:</h3>
-<hr />
+
+## Languages & Framework and Tools:
+
 <p align="center" style="margin-top: 20px">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
