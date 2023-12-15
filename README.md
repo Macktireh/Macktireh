@@ -8,8 +8,9 @@ macktireh@github:~ $ MackDev
 ```
 
 ## :octocat: My stats
+<p align="center" style="margin-top: 20px">
   <table>
-  <tr>
+    <tr>
       <td>
        <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Macktireh&show_icons=true"/>
       </td>
@@ -19,76 +20,44 @@ macktireh@github:~ $ MackDev
        -->
        <img width="380px" align="left" src="https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&compact=True&theme=classic" />
       </td>      
-  </tr>   
-</table>
-
+    </tr>   
+  </table>
+</p>
 
 
 ## Languages & Framework and Tools:
 
 <p align="center" style="margin-top: 20px">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>
+    <a href="https://www.python.org" title="Python">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python"  />
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
+    <a href="https://www.typescriptlang.org" title="TypeScript">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"  />
     </a>
-    <a href="https://www.postgresql.org](https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>
+    <a href="https://docs.oracle.com/en/java/" title="Java">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java"  />
     </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>
+    <a href="https://www.postgresql.org" title="PostgreSQL">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"  />
     </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="django" alt="django" width="40" height="40"/>
+    <a href="https://docs.djangoproject.com/en/4.2" title="Django">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django"  />
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Macktireh/Icons/blob/main/Icons/flask.png" title="Flask" alt="flask" width="40" height="40"/>
+    <a href="https://flask.palletsprojects.com" title="Flask">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask"  />
     </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+    <!--
+    <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"  />
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+    -->
+    <a href="https://www.nodejs.org/en/" title="NodeJS">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"  />
+    </a>
+    <a href="https://www.react.dev" title="React">
+        <img src="https://skillicons.dev/icons?i=react" alt="React"  />
+    </a>
+    <a href="https://www.docker.com/" title="Docker">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker"  />
     </a>
 </p>
-
-
-<!--
-
- 
-**Macktireh/Macktireh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=tokyonight)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macktireh&theme=tokyonight" />
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macktireh&show_icons=true&theme=tokyonight" />
-  https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&theme=classic
-  <img src="https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=tokyonight" />
-</div>
-
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macktireh&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=radical" />
-
-<div style="display: flex;">
-  <img src="https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&compact=True&theme=classic" />
-
-  <img src="https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&theme=classic" />
-  <img src="https://github-readme-stats.vercel.app/api?username=macktireh&show_icons=true&theme=tokyonight" />
-
-</div>
--->
