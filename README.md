@@ -6,7 +6,7 @@ macktireh@github:~ $ MackDev
   • 😎 Python (Django & Flask) developer
   • 😃 React & React-Native enthusiast
 ```
-
+ 
 ## :octocat: My stats
   <table>
   <tr>
