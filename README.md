@@ -1,4 +1,6 @@
-# Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Macktireh!&descAlign=50&descSize=30&animation=twinkling">
+</p>
 
 ```bash
 macktireh@github:~ $ MackDev
@@ -9,21 +11,31 @@ macktireh@github:~ $ MackDev
 
 ## :octocat: My stats
 <p align="center" style="margin-top: 20px">
-  <table>
+<p align="center" style="margin-top: 20px">
+  <table align="center">
     <tr>
       <td>
-       <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Macktireh&show_icons=true"/>
+       <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=Macktireh&show_icons=true"/>
       </td>
       <td>
        <!--
        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macktireh&hide=css&layout=compact"/>
        -->
-       <img width="380px" align="left" src="https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&compact=True&theme=classic" />
+       <img width="380px" align="center" src="https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&compact=True&theme=classic" />
       </td>      
+    </tr> 
+  </table>
+</p>
+<p align="center" style="margin-top: 20px">
+  <table align="center">
+    <tr>
+      <td>
+       <img width="760px" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Macktireh&theme=dracula&show_icons=true&bg_color=FFFFFF"/>
+      </td>     
     </tr>   
   </table>
 </p>
-
+</p>
 
 ## Languages & Framework and Tools:
 
