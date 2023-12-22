@@ -9,13 +9,12 @@ macktireh@github:~ $ MackDev
   • 😃 React & React-Native enthusiast
 ```
 
-## :octocat: My stats
-<p align="center" style="margin-top: 20px">
+<br> <h2 align="center">⚡ STATS ⚡</h2>
 <p align="center" style="margin-top: 20px">
   <table align="center">
     <tr>
       <td>
-       <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=Macktireh&show_icons=true"/>
+       <img width="353px" align="center" src="https://github-readme-stats.vercel.app/api?username=Macktireh&show_icons=true"/>
       </td>
       <td>
        <!--
@@ -35,9 +34,8 @@ macktireh@github:~ $ MackDev
     </tr>   
   </table>
 </p>
-</p>
 
-## Languages & Framework and Tools:
+<br> <h2 align="center"> Languages & Framework & Tools </h2>
 
 <p align="center" style="margin-top: 20px">
     <a href="https://www.python.org" title="Python">
