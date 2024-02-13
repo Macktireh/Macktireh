@@ -47,6 +47,9 @@ macktireh@github:~ $ MackDev
     <a href="https://docs.oracle.com/en/java/" title="Java">
         <img src="https://skillicons.dev/icons?i=java" alt="Java"  />
     </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="csharp">
+        <img src="https://skillicons.dev/icons?i=cs" alt="csharp"  />
+    </a>
     <a href="https://www.postgresql.org" title="PostgreSQL">
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"  />
     </a>
