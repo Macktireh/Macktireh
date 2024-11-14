@@ -73,4 +73,7 @@ macktireh@github:~ $ MackDev
     <a href="https://www.docker.com/" title="Docker">
         <img src="https://skillicons.dev/icons?i=docker" alt="Docker"  />
     </a>
+    <a href="https://code.visualstudio.com/" title="VSCode">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"  />
+    </a>
 </p>
