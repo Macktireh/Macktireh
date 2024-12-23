@@ -2,12 +2,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&&section=header&text=HI%20THERE!&fontSize=60&fontAlign=50&fontAlignY=30&desc=I%20am%20Macktireh!&descAlign=50&descSize=30&animation=twinkling">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Fullstack-Developer-blue" alt="Fullstack Developer">
+  <img src ="https://komarev.com/ghpvc/?username=Macktireh&color=blue&style=flat">
+</p>
+
 ```bash
 macktireh@github:~ $ MackDev
 
   • 😎 Python (Django & Flask) developer
   • 😃 React & React-Native enthusiast
 ```
+
 <!--
 <br> <h2 align="center">⚡ STATS ⚡</h2>
 <p align="center" style="margin-top: 20px">
@@ -32,9 +38,10 @@ macktireh@github:~ $ MackDev
   </table>
 </p>
 -->
+
 <!--
-       <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macktireh&hide=css&layout=compact"/>
-       -->
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macktireh&hide=css&layout=compact"/>
+-->
 
 <br> <h2 align="center"> Languages & Framework & Tools </h2>
 
@@ -60,11 +67,6 @@ macktireh@github:~ $ MackDev
     <a href="https://flask.palletsprojects.com" title="Flask">
         <img src="https://skillicons.dev/icons?i=flask" alt="Flask"  />
     </a>
-    <!--
-    <a href="https://fastapi.tiangolo.com/" title="FastAPI">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"  />
-    </a>
-    -->
     <a href="https://www.nodejs.org/en/" title="NodeJS">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"  />
     </a>
