@@ -8,7 +8,7 @@ macktireh@github:~ $ MackDev
   • 😎 Python (Django & Flask) developer
   • 😃 React & React-Native enthusiast
 ```
-
+<!--
 <br> <h2 align="center">⚡ STATS ⚡</h2>
 <p align="center" style="margin-top: 20px">
   <table align="center">
@@ -17,15 +17,11 @@ macktireh@github:~ $ MackDev
        <img width="353px" align="center" src="https://github-readme-stats.vercel.app/api?username=Macktireh&show_icons=true"/>
       </td>
       <td>
-       <!--
-       <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macktireh&hide=css&layout=compact"/>
-       -->
        <img width="380px" align="center" src="https://api.githubtrends.io/user/svg/Macktireh/langs?time_range=one_year&compact=True&theme=classic" />
       </td>      
     </tr> 
   </table>
 </p>
-<!--
 <p align="center" style="margin-top: 20px">
   <table align="center">
     <tr>
@@ -36,6 +32,9 @@ macktireh@github:~ $ MackDev
   </table>
 </p>
 -->
+<!--
+       <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macktireh&hide=css&layout=compact"/>
+       -->
 
 <br> <h2 align="center"> Languages & Framework & Tools </h2>
 
