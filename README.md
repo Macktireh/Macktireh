@@ -25,6 +25,7 @@ macktireh@github:~ $ MackDev
     </tr> 
   </table>
 </p>
+<!--
 <p align="center" style="margin-top: 20px">
   <table align="center">
     <tr>
@@ -34,6 +35,7 @@ macktireh@github:~ $ MackDev
     </tr>   
   </table>
 </p>
+-->
 
 <br> <h2 align="center"> Languages & Framework & Tools </h2>
 
