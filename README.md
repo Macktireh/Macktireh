@@ -55,8 +55,8 @@ macktireh@github:~ $ MackDev
     <a href="https://docs.oracle.com/en/java/" title="Java">
         <img src="https://skillicons.dev/icons?i=java" alt="Java"  />
     </a>
-    <a href="https://dotnet.microsoft.com/en-us/" title=".Net">
-        <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net"  />
+    <a href="https://www.nodejs.org/en/" title="NodeJS">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"  />
     </a>
     <a href="https://www.postgresql.org" title="PostgreSQL">
         <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"  />
@@ -66,9 +66,6 @@ macktireh@github:~ $ MackDev
     </a>
     <a href="https://flask.palletsprojects.com" title="Flask">
         <img src="https://skillicons.dev/icons?i=flask" alt="Flask"  />
-    </a>
-    <a href="https://www.nodejs.org/en/" title="NodeJS">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS"  />
     </a>
     <a href="https://www.react.dev" title="React">
         <img src="https://skillicons.dev/icons?i=react" alt="React"  />
