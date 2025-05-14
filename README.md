@@ -10,7 +10,7 @@
 ```bash
 macktireh@github:~ $ MackDev
 
-  • 😎 Python (Django & Flask) developer
+  • 😎 Python (Django & Flask, FastAPI), Power BI developer
   • 😃 React & React-Native enthusiast
 ```
 
